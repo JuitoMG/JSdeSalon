@@ -10,6 +10,7 @@ Varias
 Líneas
 */
 
+
 // 3. Declara variables con valores asociados a todos los datos de tipo primitivos.
 
 
